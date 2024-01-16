@@ -6,4 +6,11 @@ public class PIMPage {
 	{
 		System.out.println("Add a new Employee");
 	}
+	
+	public void searchEmployee()
+	{
+		System.out.println("Search Emp");
+	}
+	
+	
 }
