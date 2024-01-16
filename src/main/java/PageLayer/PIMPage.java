@@ -17,5 +17,11 @@ public class PIMPage {
 		System.out.println("Delete Employee");
 	}
 	
+	public void addAdminAccount()
+	{
+		System.out.println("Admin TC");
+	}
+	
+	
 	
 }
