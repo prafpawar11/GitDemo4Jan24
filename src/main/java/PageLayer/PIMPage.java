@@ -27,5 +27,9 @@ public class PIMPage {
 		System.out.println("searchAdminAccount TC");
 	}
 	
+	public void deleteAdminAccount()
+	{
+		System.out.println("DeleteAdminAccount TC");
+	}
 	
 }
