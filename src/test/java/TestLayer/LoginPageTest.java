@@ -16,5 +16,7 @@ public class LoginPageTest {
 
 		PIMPage pim = new PIMPage();
 		pim.addEmp();
+		
+		pim.searchEmployee();
 	}
 }
