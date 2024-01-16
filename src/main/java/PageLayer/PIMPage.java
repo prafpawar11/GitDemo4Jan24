@@ -12,5 +12,10 @@ public class PIMPage {
 		System.out.println("Search Emp");
 	}
 	
+	public void deleteEmployee()
+	{
+		System.out.println("Delete Employee");
+	}
+	
 	
 }
