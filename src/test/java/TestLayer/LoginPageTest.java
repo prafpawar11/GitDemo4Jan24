@@ -20,5 +20,6 @@ public class LoginPageTest {
 		pim.searchEmployee();
 		pim.addAdminAccount();
 		pim.searchAdminAccount();
+		pim.deleteAdminAccount();
 	}
 }
