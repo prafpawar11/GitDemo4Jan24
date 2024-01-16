@@ -22,6 +22,10 @@ public class PIMPage {
 		System.out.println("Admin TC");
 	}
 	
+	public void searchAdminAccount()
+	{
+		System.out.println("searchAdminAccount TC");
+	}
 	
 	
 }
